@@ -20,5 +20,5 @@ $lang['js']['row_below']       = '從下方插入整行';
 $lang['js']['col_left']        = '從左方插入整列';
 $lang['js']['remove_col']      = '移除整列';
 $lang['js']['col_right']       = '從右方插入整列';
-$lang['js']['merge_cells']     = '合並單元格';
-$lang['js']['unmerge_cells']   = '拆分單元格';
+$lang['js']['merge_cells']     = '合併儲存格';
+$lang['js']['unmerge_cells']   = '拆分儲存格';
